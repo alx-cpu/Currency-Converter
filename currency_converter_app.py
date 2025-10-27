@@ -97,7 +97,6 @@ class MainWindow(QMainWindow):
             self.convert_value_input.setStyleSheet("color: red; border: 1px solid red;")
         else:
             value = float(value)
-            self.convert_value_input.setStyleSheet("color: white; border: 1px solid white;")
             convert_value,trend = self.start_convert.today_currency(currency_input, currency_output, value)
             if convert_value:
                 if trend:

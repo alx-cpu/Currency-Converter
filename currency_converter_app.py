@@ -226,7 +226,7 @@ class CurrencyChange:
       return output_value,trend
 
 
-app1 = QApplication(sys.argv)
+app = QApplication(sys.argv)
 main = MainWindow()
 main.show()
-sys.exit(app1.exec_())
+sys.exit(app.exec_())

@@ -48,7 +48,8 @@ run currency_converter_app.exe
 * Click **Convert** to get the converted value.
 * Use the swap button to switch currencies.
 
-<img width="432" height="147" alt="app_ss" src="https://github.com/user-attachments/assets/758d6031-e320-4983-9fb9-83f04dec9e23" />
+<img width="423" height="150" alt="app_ss" src="https://github.com/user-attachments/assets/f3fecf87-ecc1-4d71-ad12-2b5dc975fb86" />
+
 
 
 ---

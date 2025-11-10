@@ -14,7 +14,7 @@ class MainWindow(QMainWindow):
         self.start_convert = CurrencyChange()
         self.currencies_list = self.read_json()
         self.setWindowTitle("Currency Converter")
-        self.setWindowIcon(QIcon("resoursces/app_icon.png"))
+        self.setWindowIcon(QIcon("resources/app_icon.png"))
         self.setGeometry(100, 100, 400, 100)
         self.setStyleSheet("background-color: #2B2B2B;")
         self.UiComponents()
